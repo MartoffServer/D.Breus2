@@ -1,0 +1,14 @@
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.Manual\plugin.json
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.Manual\Views\_ViewImports.cshtml
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.deps.json
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.AssemblyInfoInputs.cache
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.AssemblyInfo.cs
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.csproj.CopyComplete
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.dll
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.pdb

@@ -1,0 +1,14 @@
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\plugin.json
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\_ViewImports.cshtml
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.Privat.deps.json
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.Privat.dll
+C:\Users\D.Breus\Desktop\D.Breus1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.Privat.pdb
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Privat\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Privat.csproj.CoreCompileInputs.cache
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Privat\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Privat.AssemblyInfoInputs.cache
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Privat\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Privat.AssemblyInfo.cs
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Privat\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Privat.csproj.CopyComplete
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Privat\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Privat.dll
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Privat\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Privat.pdb
+C:\Users\D.Breus\Desktop\D.Breus1\Plugins\Nop.Plugin.Payments.Privat\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Privat.csprojAssemblyReference.cache
